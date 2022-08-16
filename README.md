@@ -1,1 +1,1 @@
-# https-istrimin.github.io
+istrimin.github.io
